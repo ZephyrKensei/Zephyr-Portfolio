@@ -15,7 +15,7 @@ export default function App(){
       <Work
         key={item.id}
         img={item.img}
-        title={item.imgSrc}
+        urlSrc={item.urlSrc}
       />
     )
   })
@@ -26,8 +26,8 @@ export default function App(){
         <Services />
         <About />
         <Work />
-        <Footer />
         {content}
+        <Footer />
       </>
     )
 }

@@ -158,7 +158,7 @@ header {
 
 .my-services {
   background-color: var(--color-dark);
-  background-image: url("../public/img/services-bg5.jpg");
+  background-image: url("../services-bg5.jpg");
   background-size: cover;
   /* background-blend-mode: normal; */
   color: var(--color-light);
