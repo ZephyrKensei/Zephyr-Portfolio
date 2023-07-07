@@ -1,4 +1,3 @@
-import React from 'react';
 import './css/index.css';
 import './css/App.css';
 import data from "./data"
@@ -25,10 +24,8 @@ export default function App(){
         <Intro />
         <Services />
         <About />
-        <Work />
         {content}
         <Footer />
       </>
     )
 }
-
