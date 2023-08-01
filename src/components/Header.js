@@ -1,23 +1,23 @@
 
 function Header() {
 
-//   const navToggle = document.querySelector('.nav-toggle');
-//   const navLinks = document.querySelectorAll('.nav__link')
+  const navToggle = document.querySelector('.nav-toggle');
+  const navLinks = document.querySelectorAll('.nav__link')
 
-//   navToggle.addEventListener('click', () => {
-//       document.body.classList.toggle('nav-open');
-//   });
+  navToggle.addEventListener('click', () => {
+      document.body.classList.toggle('nav-open');
+  });
 
-//   navLinks.forEach(link => {
-//       link.addEventListener('click', () => {
-//           document.body.classList.remove('nav-open');
-//       })
-//   })
+  navLinks.forEach(link => {
+      link.addEventListener('click', () => {
+          document.body.classList.remove('nav-open');
+      })
+  })
 
   return (
     <header>
       <div className="logo">
-          <img src="img/brand.name.png" alt="brand-name" />
+          <img src="public/img/brand.name.png" alt="brand-name" />
       </div>
       <button className="nav-toggle" aria-label="toggle navigation">
           <span className="hamburger"></span>

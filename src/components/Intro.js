@@ -6,7 +6,7 @@ function Intro() {
           Howdy, I am <strong>Austin Turturro</strong>
       </h1>
       <p className="section__subtitle section__subtitle--intro typewriter">React Developer</p>
-      <img src="img/zephyr-01.png" alt="Dev Austin Turturro" className="intro__img" />
+      <img src="public/img/zephyr-01.png" alt="Dev Austin Turturro" className="intro__img" />
     </section>
   );
 }

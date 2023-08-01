@@ -22,8 +22,8 @@ export default [
   },
   {
     id: 5,
-    img: "public/img/5-meme-generator.jpg",
-    urlSrc: ""
+    img: "public/img/5-Mytube.png",
+    urlSrc: "https://mytube-project-0d65fb.netlify.app/"
   },
   {
     id: 6,
@@ -32,17 +32,12 @@ export default [
   },
   {
     id: 7,
-    img: "public/img/7-experiences.png",
-    urlSrc: ""
+    img: "public/img/7-skatewebsite.png",
+    urlSrc: "https://skate-website.netlify.app/"
   },
   {
     id: 8,
     img: "public/img/8-front-Saas.jpg",
     urlSrc: "https://front-saas-26b436.netlify.app/"
   },
-  {
-    id: 9,
-    img: "public/img/9-tenzies.jpg",
-    urlSrc: ""
-  }
 ]
