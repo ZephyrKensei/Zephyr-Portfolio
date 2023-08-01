@@ -10,7 +10,7 @@ function Work(props) {
                 className="portfolio__item"
                 target="_blank"
                 rel="noreferrer">
-            <img src={`../imgs/${props.img}`}
+            <img src={`public/img/${props.img}`}
                 alt="Responsive Website"
                 className="portfolio__img" />
             </a>
