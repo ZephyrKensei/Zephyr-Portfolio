@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Zephyr-Portfolio/static/css/main.5f7c1fdd.css",
-    "main.js": "/Zephyr-Portfolio/static/js/main.b10f8761.js",
+    "main.js": "/Zephyr-Portfolio/static/js/main.ff82867a.js",
     "static/js/787.aeca62f9.chunk.js": "/Zephyr-Portfolio/static/js/787.aeca62f9.chunk.js",
     "static/media/services-bg5.jpg": "/Zephyr-Portfolio/static/media/services-bg5.a533b520fcc8e9a51960.jpg",
     "index.html": "/Zephyr-Portfolio/index.html",
     "main.5f7c1fdd.css.map": "/Zephyr-Portfolio/static/css/main.5f7c1fdd.css.map",
-    "main.b10f8761.js.map": "/Zephyr-Portfolio/static/js/main.b10f8761.js.map",
+    "main.ff82867a.js.map": "/Zephyr-Portfolio/static/js/main.ff82867a.js.map",
     "787.aeca62f9.chunk.js.map": "/Zephyr-Portfolio/static/js/787.aeca62f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5f7c1fdd.css",
-    "static/js/main.b10f8761.js"
+    "static/js/main.ff82867a.js"
   ]
 }
