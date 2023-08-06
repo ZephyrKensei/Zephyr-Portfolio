@@ -17,7 +17,7 @@ function Header() {
   return (
     <header>
       <div className="logo">
-          <img src="./public/img/brand.name.png" alt="brand-name" />
+          <img src="public/img/brand-name.png" alt="brand-name" />
       </div>
       <button className="nav-toggle" aria-label="toggle navigation">
           <span className="hamburger"></span>
